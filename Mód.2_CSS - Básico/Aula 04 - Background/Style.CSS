@@ -1,0 +1,18 @@
+body {
+    background-image: url(zorinho_2.jpg); 
+    background-repeat: no-repeat; 
+    /* background-position: 90% 20%; */ 
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+
+    p { 
+    color: rgb(82, 23, 23);
+    }
+
+    
+}
+
+ul {
+    color: rgb(10, 126, 126);
+}
